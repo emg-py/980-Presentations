@@ -3,9 +3,9 @@
 
 <!- Guillevic -->
 
-# Guillevic
+## Guillevic
 # _Carnac_
-###### un projet [freecodecamp.org](https://freecodecamp.org) dans le cadre de la formation Simplon-co / EMG2017
+###### un projet [freecodecamp.org](https://freecodecamp.org) <br>dans le cadre de la formation Simplon-co / EMG2017
 
 
 
@@ -13,17 +13,18 @@
 ### aux bases du 
 ### développement web
 découvrir et aborder les technologies <br>et les outils
-du développement web 'Front End'
-* html
-* css
-* js
+du développement web 'Front End'<br>
+
+* html<!-- .element: class="fragment" data-fragment-index="1" -->  
+* css<!-- .element: class="fragment" data-fragment-index="2" -->
+* js<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ### LES RESSOURCES MISES EN OEUVRE :
 * openclassrooms.com
 * freecodecamp.org
-* ...
-* un bon brin de curiosité et d'astuce
+* ...<!-- .element: class="fragment" data-fragment-index="1" -->
+* un bon brin de curiosité et d'astuce<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
@@ -74,21 +75,21 @@ Après une introduction succincte aux fonctionnalités asynchrones du langage Ja
 
 
 
-### 1 - le choix 
-#### d'une source de citations
+#### 1 - le choix 
+## d'une source de citations
 https://fr.wikiquote.org/wiki/Carnac
 
 
 ## de la POÉSIE
 __beauté__<!-- .element: class="fragment" data-fragment-index="1" --> __sensibilité__<!-- .element: class="fragment" data-fragment-index="2" --><br>
 __force__<!-- .element: class="fragment" data-fragment-index="3" --> __évocation__<!-- .element: class="fragment" data-fragment-index="4" --><br>
-### *__évasion__*<!-- .element: class="fragment" data-fragment-index="5" -->
+## *__évasion__*<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
-## SI FRAGILE
+### SI FRAGILE
 
 
-# SI INDISPENSABLE !
+## SI INDISPENSABLE
 
 
 ## un choix ingénu
@@ -101,7 +102,7 @@ les extraits placés entre des balises &lt;span>
 
 
 ### la complexité de l'__api__ Wikimedia
-une documentation foisonnante
+une documentation foisonnante<br>
 exhaustive, technique
 ##### pas beaucoup d'images !
 
@@ -110,11 +111,11 @@ exhaustive, technique
 # __CORS__
 la bête noire est en gras
 
-(combien d'heures perdues)
+<small>(combien d'heures perdues ?)</small>
 
 
 ## __JSONP__
-_callback=?_
+    &callback=?
 
 
 Oui, c'est bien ça :
@@ -124,7 +125,7 @@ Oui, c'est bien ça :
 
 
 ### et quand __tout marche__
-## en __local__
+# en __local__
 
 
 ## ON FAIT QUOI ?
@@ -140,13 +141,14 @@ Oui, c'est bien ça :
 
 
 #### la bibliothèque de 9bitStudios
-#### Ian C.
-la (une) solution
+#### et Ian C.
+la solution<br>
+<small>(une des)</small>
 
 
 
-### 2 - le choix
-#### d'une présentation graphique
+#### 2 - le choix
+## d'une présentation graphique
 
 
 # des croquis
@@ -156,3 +158,58 @@ la (une) solution
 
 ##### UNE
 # idée
+
+
+##### présenter les extraits en respectant
+### les proportions
+## d'une page de recueil
+
+
+### simple
+### minimaliste
+## efficace
+
+
+### MAIS
+##### de l'idée
+##### à la réalisation
+
+
+### que d'écueils
+#### d'embûches<!-- .element: class="fragment" data-fragment-index="1" -->
+##### de chausse-trapes<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Proportion 11x18
+### un rapport 1,63
+
+
+### un peu trop
+## radical
+pour une page web
+
+
+#### arrondi à
+### 1x1,5
+
+
+### le placement
+conserver les proportions en
+'responsive'
+### impossible<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+### découverte et utilisation
+### de la mesure VH
+une taille proportionnelle à la hauteur de la page
+merci Pierre !<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+### les polices de caractères
+## Garamond / Baskerville
+
+
+### Google fonts 
+## EB+Garamond
+## Libre Baskerville
+(titre et 'header')
